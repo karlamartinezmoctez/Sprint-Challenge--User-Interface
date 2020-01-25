@@ -171,41 +171,39 @@ footer nav a {
 margin: 4% 20% 2% 19%;
 }
 
-.boxes div:nth-child(1){
-    background:white;
+
+#one {
+    background:teal;
 }
 
-/* .boxes div:nth-child(1) {
-    background-color: white;
-} */
-/* .box2{
+#two{
     background-color:gold;
 }
-.box3
+#three
 {
     background-color:cadetblue;
 }
-.box4{
+#four{
     background-color:coral;
 }
-.box5{
+#five{
     background-color:crimson;
 }
-.box6{
+#six{
     background-color:forestgreen;
 }
-.box7{
+#seven{
     background-color:darkorchid;
 }
-.box8{
+#eight{
     background-color:hotpink;
 }
-.box9{
+#nine{
     background-color:indigo;
 }
-.box10{
+#ten{
     background-color:dodgerblue;
-}  */
+} 
 
 /* ABOUT PAGE */
 .aboutSection{
