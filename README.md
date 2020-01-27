@@ -49,6 +49,7 @@ Git provides a centralized, cloud-based location to storem share, publish, test,
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
+
 ## Project Set Up
 
 - [ ] Create a forked copy of this project.
