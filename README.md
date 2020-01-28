@@ -31,7 +31,9 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
-
+//
+//
+//
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 Sematics HTML means a way to markup HTML in which the tags describes it's meaning clearly within the tag lines to both the browser and the developer. Sematic means meaning, in this case it gives the tags meaning. 
 
@@ -46,6 +48,8 @@ On the verticle axis.
 
 5. Explain why git is valuable to a team of developers.
 Git provides a centralized, cloud-based location to storem share, publish, test, collaborate between developers. It also allows for version control.
+
+//
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
